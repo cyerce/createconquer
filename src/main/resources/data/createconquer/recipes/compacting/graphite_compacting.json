@@ -1,0 +1,13 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:coal_block"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:graphite"
+    }
+  ]
+}

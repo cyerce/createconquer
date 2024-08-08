@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.8,
+  "ingredient": {
+    "item": "createconquer:raw_kimberlite"
+  },
+  "result": {
+    "item": "minecraft:diamond"
+  }
+}
