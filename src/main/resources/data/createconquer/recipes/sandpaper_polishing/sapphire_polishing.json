@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "createconquer:sapphire"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:polished_sapphire"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:deepslate_uraninite_ore"
+  },
+  "result": {
+    "item": "createconquer:uranium_ingot"
+  }
+}

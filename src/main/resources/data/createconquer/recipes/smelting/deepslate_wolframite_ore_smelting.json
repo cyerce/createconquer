@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:deepslate_wolframite_ore"
+  },
+  "result": {
+    "item": "createconquer:tungsten_ingot"
+  }
+}

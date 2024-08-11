@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:columbite_ore"
+  },
+  "result": {
+    "item": "createconquer:niobium_ingot"
+  }
+}

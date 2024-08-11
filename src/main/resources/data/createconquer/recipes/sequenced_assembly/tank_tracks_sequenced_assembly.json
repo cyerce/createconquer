@@ -1,0 +1,77 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:belt_connector"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_tank_tracks"
+  },
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        },
+        {
+          "amount": 432,
+          "fluid": "createconquer:molten_brass_fluid"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        }
+      ]
+    },
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        },
+        {
+          "amount": 432,
+          "fluid": "createconquer:molten_titanium_niobium_fluid"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_tank_tracks"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tank_tracks"
+    }
+  ],
+  "loops": 3
+}

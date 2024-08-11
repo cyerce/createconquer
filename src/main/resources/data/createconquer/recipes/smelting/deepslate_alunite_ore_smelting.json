@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:deepslate_alunite_ore"
+  },
+  "result": {
+    "item": "minecraft:copper_ingot"
+  }
+}

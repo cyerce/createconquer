@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:deepslate_chromite_ore"
+  },
+  "result": {
+    "item": "createconquer:chromium_ingot"
+  }
+}

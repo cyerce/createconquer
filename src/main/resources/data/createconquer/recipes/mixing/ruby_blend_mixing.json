@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:aluminum_powder"
+    },
+    {
+      "item": "createconquer:iron_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:ruby_blend"
+    }
+  ]
+}

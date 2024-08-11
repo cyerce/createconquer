@@ -1,0 +1,97 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:nuclear_warhead_housed"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_nuclear_missile"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        },
+        {
+          "item": "createconquer:oxygen_bucket"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        },
+        {
+          "item": "createconquer:hydrogen_bucket"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        },
+        {
+          "item": "createconquer:connector"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        },
+        {
+          "item": "createconquer:electrum_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        },
+        {
+          "item": "createconquer:thruster"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_nuclear_missile"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:nuclear_missile"
+    }
+  ],
+  "loops": 3
+}

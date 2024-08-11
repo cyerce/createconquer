@@ -1,0 +1,13 @@
+{
+  "type": "create:sandpaper_polishing",
+  "ingredients": [
+    {
+      "item": "createconquer:ruby"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:polished_ruby"
+    }
+  ]
+}

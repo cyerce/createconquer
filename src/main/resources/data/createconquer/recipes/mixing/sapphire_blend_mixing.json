@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:aluminum_powder"
+    },
+    {
+      "item": "createconquer:titanium_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:sapphire_blend"
+    }
+  ]
+}

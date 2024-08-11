@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:bauxite_ore"
+  },
+  "result": {
+    "item": "createconquer:aluminum_ingot"
+  }
+}
