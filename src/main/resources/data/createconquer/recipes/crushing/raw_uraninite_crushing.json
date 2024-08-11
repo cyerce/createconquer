@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:raw_uraninite"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:crushed_raw_uraninite"
+    },
+    {
+      "item": "create:experience_nugget",
+      "count": 2,
+      "chance": 0.75
+    }
+  ],
+  "processingTime": 400
+}

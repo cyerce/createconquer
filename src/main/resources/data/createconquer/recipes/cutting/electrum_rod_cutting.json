@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "createconquer:electrum_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:electrum_rod"
+    }
+  ]
+}

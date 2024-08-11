@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "createconquer:polonium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:polonium_rod"
+    }
+  ]
+}
