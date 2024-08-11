@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:plastic"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_basic_circuit"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        },
+        {
+          "item": "create:andesite_alloy"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinshed_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        },
+        {
+          "item": "createconquer:copper_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        },
+        {
+          "item": "createconquer:zinc_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_basic_circuit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:basic_circuit"
+    }
+  ],
+  "loops": 3
+}

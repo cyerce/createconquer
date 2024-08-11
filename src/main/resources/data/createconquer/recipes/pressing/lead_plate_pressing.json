@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:lead_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:lead_plate"
+    }
+  ]
+}

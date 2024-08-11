@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.4,
+  "ingredient": {
+    "item": "createconquer:raw_emerald_beryl"
+  },
+  "result": {
+    "item": "minecraft:emerald"
+  }
+}

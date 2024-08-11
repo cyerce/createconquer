@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:titanium_powder"
+    },
+    {
+      "item": "createconquer:niobium_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:titanium_niobium_powder",
+      "count": 2
+    }
+  ]
+}

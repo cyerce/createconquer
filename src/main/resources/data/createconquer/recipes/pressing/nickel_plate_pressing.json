@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:nickel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:nickel_plate"
+    }
+  ]
+}

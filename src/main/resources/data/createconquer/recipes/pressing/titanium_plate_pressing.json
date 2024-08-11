@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:titanium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:titanium_plate"
+    }
+  ]
+}

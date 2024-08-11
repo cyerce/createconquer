@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:basic_circuit"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_advanced_circuit"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        },
+        {
+          "item": "createconquer:electrum_nugget"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinshed_advanced_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        },
+        {
+          "item": "createconquer:gold_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        },
+        {
+          "item": "createconquer:electrum_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:advanced_circuit"
+    }
+  ],
+  "loops": 3
+}

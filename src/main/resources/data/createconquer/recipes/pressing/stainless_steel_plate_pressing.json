@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:stainless_steel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:stainless_steel_plate"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:tin_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tin_plate"
+    }
+  ]
+}

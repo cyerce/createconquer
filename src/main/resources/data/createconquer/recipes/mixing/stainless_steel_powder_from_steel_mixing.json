@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:steel_powder"
+    },
+    {
+      "item": "createconquer:chromium_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:stainless_steel_powder",
+      "count": 2
+    }
+  ]
+}

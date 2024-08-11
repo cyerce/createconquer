@@ -1,0 +1,62 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:buckshot"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_shotgun_shell"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_shotgun_shell"
+        },
+        {
+          "item": "minecraft:paper"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_shotgun_shell"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_shotgun_shell"
+        },
+        {
+          "item": "minecraft:gunpowder"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_shotgun_shell"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_shotgun_shell"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_shotgun_shell"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:shotgun_shell"
+    }
+  ],
+  "loops": 1
+}

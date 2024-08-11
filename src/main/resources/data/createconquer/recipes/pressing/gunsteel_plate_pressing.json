@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:gunsteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:gunsteel_plate"
+    }
+  ]
+}

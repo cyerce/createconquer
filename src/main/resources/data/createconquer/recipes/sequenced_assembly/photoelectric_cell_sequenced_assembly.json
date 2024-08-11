@@ -1,0 +1,78 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:silicon_plate"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_photoelectric_cell"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        },
+        {
+          "item": "createconquer:copper_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        },
+        {
+          "item": "createconquer:zinc_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        },
+        {
+          "item": "minecraft:glass_pane"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_photoelectric_cell"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:photoelectric_cell"
+    }
+  ],
+  "loops": 1
+}

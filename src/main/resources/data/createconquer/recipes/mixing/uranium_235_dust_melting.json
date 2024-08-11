@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "createconquer:uranium_235_powder"
+    }
+  ],
+  "results": [
+    {
+      "amount": 48,
+      "fluid": "createconquer:molten_uranium_235_fluid"
+    }
+  ]
+}

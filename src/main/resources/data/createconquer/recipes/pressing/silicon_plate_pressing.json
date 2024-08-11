@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:silicon_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:silicon_plate"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:fissile_uranium_20_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:fissile_uranium_20_plate"
+    }
+  ]
+}

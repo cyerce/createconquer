@@ -1,0 +1,95 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:silicon_plate"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_capacitor"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        },
+        {
+          "item": "create:copper_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        },
+        {
+          "item": "createconquer:zinc_plate"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        },
+        {
+          "item": "createconquer:copper_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        }
+      ]
+    },
+	 {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        },
+        {
+          "item": "createconquer:zinc_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_capacitor"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:capacitor",
+      "count": 8
+    }
+  ],
+  "loops": 2
+}

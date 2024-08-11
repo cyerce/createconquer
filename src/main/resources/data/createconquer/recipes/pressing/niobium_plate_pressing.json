@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:niobium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:niobium_plate"
+    }
+  ]
+}

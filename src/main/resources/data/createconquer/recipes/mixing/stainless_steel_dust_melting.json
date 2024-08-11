@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "createconquer:stainless_steel_powder"
+    }
+  ],
+  "results": [
+    {
+      "amount": 48,
+      "fluid": "createconquer:molten_stainless_steel_fluid"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:titanium_powder"
+    },
+    {
+      "item": "createconquer:gunsteel_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tanksteel_powder",
+      "count": 2
+    }
+  ]
+}

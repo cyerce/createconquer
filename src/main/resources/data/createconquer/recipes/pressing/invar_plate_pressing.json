@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:invar_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:invar_plate"
+    }
+  ]
+}

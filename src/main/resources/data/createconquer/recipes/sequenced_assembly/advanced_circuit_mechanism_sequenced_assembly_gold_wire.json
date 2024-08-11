@@ -1,0 +1,125 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:circuit_mechanism"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_advanced_circuit_mechanism"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        },
+        {
+          "item": "createconquer:gold_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        },
+        {
+          "item": "create:golden_sheet"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        },
+        {
+          "item": "create:electron_tube"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        },
+        {
+          "item": "createconquer:advanced_photoelectric_cell"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        },
+        {
+          "item": "createconquer:advanced_circuit"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_advanced_circuit_mechanism"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:advanced_circuit_mechanism"
+    }
+  ]
+}

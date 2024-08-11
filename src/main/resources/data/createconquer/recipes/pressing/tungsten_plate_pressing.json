@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:tungsten_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tungsten_plate"
+    }
+  ]
+}

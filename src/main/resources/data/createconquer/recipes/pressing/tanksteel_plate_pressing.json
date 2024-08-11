@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:tanksteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tanksteel_plate"
+    }
+  ]
+}

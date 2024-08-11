@@ -1,0 +1,61 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "create:golden_sheet"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_gyroscope"
+  },
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_gyroscope"
+        },
+        {
+          "item": "createconquer:gyro"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_gyroscope"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_gyroscope"
+        },
+        {
+          "item": "createconquer:iron_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_gyroscope"
+        }
+      ]
+    },
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_gyroscope"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_gyroscope"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:gyroscope"
+    }
+  ]
+}

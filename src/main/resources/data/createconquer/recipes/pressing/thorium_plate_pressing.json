@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "createconquer:thorium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:thorium_plate"
+    }
+  ]
+}

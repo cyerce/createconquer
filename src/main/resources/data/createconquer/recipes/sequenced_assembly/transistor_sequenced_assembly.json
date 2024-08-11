@@ -1,0 +1,111 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "createconquer:silicon_plate"
+  },
+  "transitionalItem": {
+    "item": "createconquer:unfinished_transistor"
+  },
+  "sequence": [
+    {
+      "type": "create:pressing",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        },
+        {
+          "item": "createconquer:copper_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        },
+        {
+          "item": "createconquer:iron_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        },
+        {
+          "item": "createconquer:zinc_rod"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        },
+        {
+          "item": "createconquer:copper_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        },
+        {
+          "item": "createconquer:zinc_wire"
+        }
+      ],
+      "results": [
+        {
+          "item": "createconquer:unfinished_transistor"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:transistor",
+      "count": 2
+    }
+  ],
+  "loops": 2
+}
