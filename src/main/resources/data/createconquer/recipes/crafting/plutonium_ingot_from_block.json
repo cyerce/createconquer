@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "plutonium_ingot",
+  "ingredients": [
+    {
+      "item": "createconquer:plutonium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:plutonium_ingot"
+  }
+}

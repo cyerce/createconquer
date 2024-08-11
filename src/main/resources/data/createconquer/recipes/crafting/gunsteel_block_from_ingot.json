@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gunsteel_block",
+  "key": {
+    "#": {
+      "item": "createconquer:gunsteel_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:gunsteel_block"
+  }
+}

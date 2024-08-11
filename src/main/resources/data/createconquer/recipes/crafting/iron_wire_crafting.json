@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "gold_wire",
+  "key": {
+    "#": {
+      "item": "createconquer:steel_plate"
+    },
+    "%": {
+      "item": "create:golden_sheet"
+    }
+  },
+  "pattern": [
+    "#",
+    "%",
+    "#"
+  ],
+  "result": {
+    "item": "createconquer:gold_wire"
+  }
+}

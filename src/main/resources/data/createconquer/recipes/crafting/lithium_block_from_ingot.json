@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "lithium_block",
+  "key": {
+    "#": {
+      "item": "createconquer:lithium_ingot"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:lithium_block"
+  }
+}

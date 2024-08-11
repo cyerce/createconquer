@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "photoelectric_cell",
+  "key": {
+    "@": {
+      "item": "createconquer:silicon_plate"
+    },
+    "#": {
+      "item": "createconquer:copper_wire"
+    },
+    "$": {
+      "item": "createconquer:zinc_wire"
+    },
+    "%": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "pattern": [
+    "%%%",
+    "# $",
+    "@@@"
+  ],
+  "result": {
+    "item": "createconquer:photoelectric_cell"
+  }
+}

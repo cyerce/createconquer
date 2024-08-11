@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "polonium_rod",
+  "key": {
+    "#": {
+      "item": "createconquer:polonium_ingot"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "createconquer:polonium_rod"
+  }
+}

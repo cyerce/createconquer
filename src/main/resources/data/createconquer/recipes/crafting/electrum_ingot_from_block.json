@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "electrum_ingot",
+  "ingredients": [
+    {
+      "item": "createconquer:electrum_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:electrum_ingot"
+  }
+}

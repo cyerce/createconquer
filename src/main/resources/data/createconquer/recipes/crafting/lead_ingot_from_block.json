@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "lead_ingot",
+  "ingredients": [
+    {
+      "item": "createconquer:lead_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:lead_ingot"
+  }
+}

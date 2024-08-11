@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "brass_gear",
+  "key": {
+    "#": {
+      "item": "create:brass_ingot"
+    },
+    "%": {
+      "item": "create:brass_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#%#",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "createconquer:brass_gear"
+  }
+}

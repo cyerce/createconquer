@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "gunsteel_ingot",
+  "ingredients": [
+    {
+      "item": "createconquer:gunsteel_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:gunsteel_ingot"
+  }
+}
+

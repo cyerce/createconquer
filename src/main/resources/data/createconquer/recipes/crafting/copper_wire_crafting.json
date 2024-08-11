@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "copper_wire",
+  "key": {
+    "#": {
+      "item": "createconquer:steel_plate"
+    },
+    "%": {
+      "item": "create:copper_sheet"
+    }
+  },
+  "pattern": [
+    "#",
+    "%",
+    "#"
+  ],
+  "result": {
+    "item": "createconquer:copper_wire"
+  }
+}

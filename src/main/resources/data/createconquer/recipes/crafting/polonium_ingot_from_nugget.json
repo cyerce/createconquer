@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "plonium_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:polonium_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:polonium_ingot"
+  }
+}

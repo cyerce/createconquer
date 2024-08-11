@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "nickel_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:nickel_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:nickel_ingot"
+  }
+}

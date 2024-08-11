@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "electrum_rod",
+  "key": {
+    "#": {
+      "item": "createconquer:electrum_ingot"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "createconquer:electrum_rod"
+  }
+}

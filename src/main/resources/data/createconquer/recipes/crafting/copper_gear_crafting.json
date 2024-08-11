@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "copper_gear",
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ingot"
+    },
+    "%": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "pattern": [
+    "###",
+    "#%#",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "createconquer:copper_gear"
+  }
+}
