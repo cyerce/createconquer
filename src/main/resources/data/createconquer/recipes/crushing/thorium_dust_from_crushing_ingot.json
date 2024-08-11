@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:thorium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:thorium_powder"
+    }
+  ],
+  "processingTime": 250
+}

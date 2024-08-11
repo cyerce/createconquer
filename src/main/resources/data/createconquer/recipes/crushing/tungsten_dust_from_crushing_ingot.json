@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:tungsten_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tungsten_powder"
+    }
+  ],
+  "processingTime": 250
+}

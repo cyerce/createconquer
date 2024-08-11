@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:uranium_238_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:uranium_238_powder"
+    }
+  ],
+  "processingTime": 250
+}

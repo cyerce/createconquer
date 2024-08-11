@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:iron_powder"
+    },
+    {
+      "item": "createconquer:nickel_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:invar_powder",
+      "count": 2
+    }
+  ]
+}

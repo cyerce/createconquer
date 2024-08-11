@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "createconquer:large_bullet_tip_cast"
+    },
+    {
+      "fluid": "createconquer:molten_lead_fluid",
+      "amount": 16
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:lead_large_bullet_tip_cast"
+    }
+  ]
+}

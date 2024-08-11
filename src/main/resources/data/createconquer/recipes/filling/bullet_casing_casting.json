@@ -1,0 +1,17 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "createconquer:bullet_casing_cast"
+    },
+    {
+      "fluid": "createconquer:molten_brass_fluid",
+      "amount": 16
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:brass_bullet_casing_cast"
+    }
+  ]
+}

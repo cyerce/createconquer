@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:gold_powder"
+    },
+    {
+      "item": "createconquer:silver_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:electrum_powder",
+      "count": 2
+    }
+  ]
+}

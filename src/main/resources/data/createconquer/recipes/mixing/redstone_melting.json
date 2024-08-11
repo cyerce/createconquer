@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "createconquer:molten_redstone_fluid",
+      "amount": 144
+    }
+  ]
+}

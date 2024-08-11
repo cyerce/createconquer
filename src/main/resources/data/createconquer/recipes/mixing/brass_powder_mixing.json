@@ -1,0 +1,17 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:copper_powder"
+    },
+    {
+      "item": "createconquer:zinc_powder"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:brass_powder",
+      "count": 2
+    }
+  ]
+}

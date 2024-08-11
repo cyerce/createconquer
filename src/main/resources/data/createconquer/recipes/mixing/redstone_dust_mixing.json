@@ -1,0 +1,26 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createconquer:copper_wire"
+    },
+    {
+      "item": "createconquer:zinc_wire"
+    },
+    {
+      "fluid": "createconquer:molten_redstone_fluid",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:copper_wire"
+    },
+    {
+      "item": "createconquer:zinc_wire"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ]
+}

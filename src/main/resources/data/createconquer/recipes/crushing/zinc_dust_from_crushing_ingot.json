@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:zinc_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:zinc_powder"
+    }
+  ],
+  "processingTime": 250
+}

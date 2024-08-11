@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:tin_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tin_powder"
+    }
+  ],
+  "processingTime": 250
+}

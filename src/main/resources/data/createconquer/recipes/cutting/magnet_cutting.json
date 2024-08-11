@@ -1,0 +1,13 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "createconquer:alnico_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:magnet"
+    }
+  ]
+}
