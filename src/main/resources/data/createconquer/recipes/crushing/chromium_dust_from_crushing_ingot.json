@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:chromium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:chromium_powder"
+    }
+  ],
+  "processingTime": 250
+}

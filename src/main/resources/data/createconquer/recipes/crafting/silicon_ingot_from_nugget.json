@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "silicon_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:silicon_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:silicon_ingot"
+  }
+}

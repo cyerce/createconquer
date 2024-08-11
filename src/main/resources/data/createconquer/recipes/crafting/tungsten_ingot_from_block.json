@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "tungsten_ingot",
+  "ingredients": [
+    {
+      "item": "createconquer:tungsten_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:tungsten_ingot"
+  }
+}

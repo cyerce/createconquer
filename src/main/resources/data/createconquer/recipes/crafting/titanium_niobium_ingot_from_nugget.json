@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "titanium_niobium_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:titanium_niobium_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:titanium_niobium_ingot"
+  }
+}

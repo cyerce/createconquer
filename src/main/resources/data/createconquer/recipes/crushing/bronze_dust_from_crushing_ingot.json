@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:bronze_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:bronze_powder"
+    }
+  ],
+  "processingTime": 250
+}

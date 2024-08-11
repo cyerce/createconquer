@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:tanksteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:tanksteel_powder"
+    }
+  ],
+  "processingTime": 250
+}

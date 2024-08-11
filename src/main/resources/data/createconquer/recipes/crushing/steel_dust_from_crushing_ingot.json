@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:steel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:steel_powder"
+    }
+  ],
+  "processingTime": 250
+}

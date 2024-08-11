@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:electrum_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:electrum_powder"
+    }
+  ],
+  "processingTime": 250
+}

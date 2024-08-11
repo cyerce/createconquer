@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:niobium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:niobium_powder"
+    }
+  ],
+  "processingTime": 250
+}

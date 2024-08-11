@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tanksteel_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:tanksteel_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:tanksteel_ingot"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "create:brass_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:brass_powder"
+    }
+  ],
+  "processingTime": 250
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:nickel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:nickel_powder"
+    }
+  ],
+  "processingTime": 250
+}

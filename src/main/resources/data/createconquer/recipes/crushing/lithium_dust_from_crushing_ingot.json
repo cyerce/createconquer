@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:lithium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:lithium_powder"
+    }
+  ],
+  "processingTime": 250
+}

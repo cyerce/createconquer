@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:stainless_steel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:stainless_steel_powder"
+    }
+  ],
+  "processingTime": 250
+}

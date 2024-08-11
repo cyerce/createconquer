@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "uranium_233_ingot",
+  "ingredients": [
+    {
+      "item": "createconquer:uranium_233_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:uranium_233_ingot"
+  }
+}

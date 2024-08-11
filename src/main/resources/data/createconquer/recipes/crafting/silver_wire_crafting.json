@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "silver_wire",
+  "key": {
+    "#": {
+      "item": "createconquer:steel_plate"
+    },
+    "%": {
+      "item": "createconquer:silver_plate"
+    }
+  },
+  "pattern": [
+    "#",
+    "%",
+    "#"
+  ],
+  "result": {
+    "item": "createconquer:silver_wire"
+  }
+}

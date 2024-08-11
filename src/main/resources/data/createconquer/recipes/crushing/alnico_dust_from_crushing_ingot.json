@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:alnico_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:alnico_powder"
+    }
+  ],
+  "processingTime": 250
+}

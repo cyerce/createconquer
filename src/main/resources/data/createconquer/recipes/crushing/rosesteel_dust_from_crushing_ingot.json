@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:rosesteel_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:rosesteel_powder"
+    }
+  ],
+  "processingTime": 250
+}

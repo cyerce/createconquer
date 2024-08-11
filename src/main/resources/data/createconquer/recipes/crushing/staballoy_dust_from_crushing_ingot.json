@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:staballoy_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:staballoy_powder"
+    }
+  ],
+  "processingTime": 250
+}

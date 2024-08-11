@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tungsten_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:tungsten_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:tungsten_ingot"
+  }
+}

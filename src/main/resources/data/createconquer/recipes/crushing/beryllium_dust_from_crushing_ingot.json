@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:beryllium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:beryllium_powder"
+    }
+  ],
+  "processingTime": 250
+}

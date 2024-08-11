@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:fissile_uranium_20_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:fissile_uranium_20_powder"
+    }
+  ],
+  "processingTime": 250
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "createconquer:bismuth_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "createconquer:bismuth_powder"
+    }
+  ],
+  "processingTime": 250
+}
