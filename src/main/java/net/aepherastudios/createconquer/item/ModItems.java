@@ -260,6 +260,57 @@ public class ModItems {
     public static final RegistryObject<Item> GOLD_PLATE_CAST = ITEMS.register("gold_plate_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> NETHERITE_PLATE_CAST = ITEMS.register("netherite_plate_cast", () -> new Item(new Item.Properties()));
 
+    public static final RegistryObject<Item> RAW_ALUNITE = ITEMS.register("raw_alunite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_BAUXITE = ITEMS.register("raw_bauxite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_COSALITE = ITEMS.register("raw_cosalite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_CORUNDUM = ITEMS.register("raw_corundum", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_CHROMITE = ITEMS.register("raw_chromite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_COLUMBITE = ITEMS.register("raw_columbite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_CHRYSOBERYL = ITEMS.register("raw_chrysoberyl", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_GALENA = ITEMS.register("raw_galena", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_ILMENITE = ITEMS.register("raw_ilmenite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_MILLERITE = ITEMS.register("raw_millerite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_MAGNETITE = ITEMS.register("raw_magnetite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_PENTLANDITE = ITEMS.register("raw_pentlandite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_WOLFRAMITE = ITEMS.register("raw_wolframite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_URANINITE = ITEMS.register("raw_uraninite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_LEPIDOLITE = ITEMS.register("raw_lepidolite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_CASSITERITE = ITEMS.register("raw_cassiterite", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> CRUSHED_RAW_ALUNITE = ITEMS.register("crushed_raw_alunite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_BAUXITE = ITEMS.register("crushed_raw_bauxite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_COSALITE = ITEMS.register("crushed_raw_cosalite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_CORUNDUM = ITEMS.register("crushed_raw_corundum", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_CHROMITE = ITEMS.register("crushed_raw_chromite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_COLUMBITE = ITEMS.register("crushed_raw_columbite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_CHRYSOBERYL = ITEMS.register("crushed_raw_chrysoberyl", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_GALENA = ITEMS.register("crushed_raw_galena", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_ILMENITE = ITEMS.register("crushed_raw_ilmenite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_MILLERITE = ITEMS.register("crushed_raw_millerite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_MAGNETITE = ITEMS.register("crushed_raw_magnetite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_PENTLANDITE = ITEMS.register("crushed_raw_pentlandite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_WOLFRAMITE = ITEMS.register("crushed_raw_wolframite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_URANINITE = ITEMS.register("crushed_raw_uraninite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_LEPIDOLITE = ITEMS.register("crushed_raw_lepidolite", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CRUSHED_RAW_CASSITERITE = ITEMS.register("crushed_raw_cassiterite", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> ALUNITE_BLEND = ITEMS.register("alunite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BAUXITE_BLEND = ITEMS.register("bauxite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COSALITE_BLEND = ITEMS.register("cosalite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CORUNDUM_BLEND = ITEMS.register("corundum_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CHROMITE_BLEND = ITEMS.register("chromite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> COLUMBITE_BLEND = ITEMS.register("columbite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CHRYSOBERYL_BLEND = ITEMS.register("chrysoberyl_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> GALENA_BLEND = ITEMS.register("galena_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> ILMENITE_BLEND = ITEMS.register("ilmenite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MILLERITE_BLEND = ITEMS.register("millerite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MAGNETITE_BLEND = ITEMS.register("magnetite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PENTLANDITE_BLEND = ITEMS.register("pentlandite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> WOLFRAMITE_BLEND = ITEMS.register("wolframite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> URANINITE_BLEND = ITEMS.register("uraninite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> LEPIDOLITE_BLEND = ITEMS.register("lepidolite_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CASSITERITE_BLEND = ITEMS.register("cassiterite_blend", () -> new Item(new Item.Properties()));
+
     public static final RegistryObject<Item> URANIUM_NUGGET_CAST = ITEMS.register("uranium_nugget_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PLUTONIUM_NUGGET_CAST = ITEMS.register("plutonium_nugget_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LITHIUM_NUGGET_CAST = ITEMS.register("lithium_nugget_cast", () -> new Item(new Item.Properties()));
@@ -349,6 +400,12 @@ public class ModItems {
     public static final RegistryObject<Item> CERAMIC = ITEMS.register("ceramic", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LITHIUM_DEUTERIDE = ITEMS.register("lithium_deuteride", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LITHIUM_TRITIDE = ITEMS.register("lithium_tritide", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SAPPHIRE = ITEMS.register("sapphire", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> POLISHED_RUBY = ITEMS.register("polished_ruby", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> POLISHED_SAPPHIRE = ITEMS.register("polished_sapphire", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RUBY_BLEND = ITEMS.register("ruby_blend", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SAPPHIRE_BLEND = ITEMS.register("sapphire_blend", () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> SMALL_BULLET = ITEMS.register("small_bullet", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LARGE_BULLET = ITEMS.register("large_bullet", () -> new Item(new Item.Properties()));
@@ -396,6 +453,8 @@ public class ModItems {
     public static final RegistryObject<Item> ADVANCED_CIRCUIT_MECHANISM = ITEMS.register("advanced_circuit_mechanism", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PHOTOELECTRIC_CELL = ITEMS.register("photoelectric_cell", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> ADVANCED_PHOTOELECTRIC_CELL = ITEMS.register("advanced_photoelectric_cell", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> BLUE_LASER_DIODE = ITEMS.register("blue_laser_diode", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RED_LASER_DIODE = ITEMS.register("red_laser_diode", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> CAPACITOR = ITEMS.register("capacitor", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> TRANSISTOR = ITEMS.register("transistor", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> MOTOR = ITEMS.register("motor", () -> new Item(new Item.Properties()));
@@ -451,7 +510,7 @@ public class ModItems {
     public static final RegistryObject<Item> UNFINISHED_ROCKET_CONTROL_MECHANISM = ITEMS.register("unfinished_rocket_control_mechanism", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> UNFINISHED_CONVENTIONAL_MISSILE = ITEMS.register("unfinished_conventional_missile", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> UNFINISHED_NUCLEAR_MISSILE = ITEMS.register("unfinished_nuclear_missile", () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> UNFINISHED_THERMONUCLEAR_MISSILE = ITEMS.register("unfinished_thermonculear_missile", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> UNFINISHED_THERMONUCLEAR_MISSILE = ITEMS.register("unfinished_thermonuclear_missile", () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> MOLTEN_URANIUM_BUCKET = ITEMS.register("molten_uranium_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_URANIUM, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
     public static final RegistryObject<Item> MOLTEN_PLUTONIUM_BUCKET = ITEMS.register("molten_plutonium_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_PLUTONIUM, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
