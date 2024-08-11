@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createconquer:raw_uraninite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "createconquer:raw_uraninite"
+  }
+}

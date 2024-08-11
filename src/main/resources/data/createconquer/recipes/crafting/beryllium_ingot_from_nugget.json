@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "beryllium_ingot",
+  "key": {
+    "#": {
+      "item": "createconquer:beryllium_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "createconquer:beryllium_ingot"
+  }
+}
