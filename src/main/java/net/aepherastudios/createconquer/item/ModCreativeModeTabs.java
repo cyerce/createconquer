@@ -15,9 +15,9 @@ public class ModCreativeModeTabs {
     public static final DeferredRegister<CreativeModeTab> CREATIVE_MODE_TABS =
             DeferredRegister.create(Registries.CREATIVE_MODE_TAB, CreateConquer.MOD_ID);
 
-    public static final RegistryObject<CreativeModeTab> RESOURCE_TAB = CREATIVE_MODE_TABS.register("resource_tab",
+    public static final RegistryObject<CreativeModeTab> CREATECONQUER_TAB = CREATIVE_MODE_TABS.register("createconquer_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.URANIUM_INGOT.get()))
-                    .title(Component.translatable("creativetab.resource_tab"))
+                    .title(Component.translatable("creativetab.createconquer_tab"))
                     .displayItems((pParameters, pOutput) -> {
                         pOutput.accept(ModItems.URANIUM_INGOT.get());
                         pOutput.accept(ModItems.URANIUM_PLATE.get());
@@ -470,12 +470,18 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.SAPPHIRE_BLEND.get());
                         pOutput.accept(ModItems.RUBY.get());
                         pOutput.accept(ModItems.SAPPHIRE.get());
+                        pOutput.accept(ModItems.CITRINE.get());
+                        pOutput.accept(ModItems.SMOKY_QUARTZ.get());
                         pOutput.accept(ModItems.POLISHED_RUBY.get());
                         pOutput.accept(ModItems.POLISHED_SAPPHIRE.get());
+                        pOutput.accept(ModItems.POLISHED_CITRINE.get());
+                        pOutput.accept(ModItems.POLISHED_SMOKY_QUARTZ.get());
                         pOutput.accept(ModItems.POLISHED_DIAMOND.get());
                         pOutput.accept(ModItems.POLISHED_EMERALD.get());
                         pOutput.accept(ModItems.POLISHED_LAPIS.get());
                         pOutput.accept(ModItems.REDSTONE_CRYSTAL.get());
+
+                        pOutput.accept(ModItems.ORANGE.get());
 
 
 
@@ -535,6 +541,33 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.THERMONUCLEAR_WARHEAD_HOUSED.get());
 
 
+
+                    })
+                    .build());
+    public static final RegistryObject<CreativeModeTab> DECORATION_TAB = CREATIVE_MODE_TABS.register("decoration_tab",
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(ModBlocks.POLISHED_QUARTZ_TILES.get()))
+                    .title(Component.translatable("creativetab.decoration_tab"))
+                    .displayItems((pParameters, pOutput) -> {
+                        pOutput.accept(ModBlocks.POLISHED_QUARTZ_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_QUARTZ_TILES.get());
+                        pOutput.accept(ModBlocks.AMETHYST_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_AMETHYST_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_DIAMOND_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_DIAMOND_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_EMERALD_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_EMERALD_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_LAPIS_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_LAPIS_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_RUBY_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_RUBY_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_SAPPHIRE_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_SAPPHIRE_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_SMOKY_QUARTZ_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_SMOKY_QUARTZ_TILES.get());
+                        pOutput.accept(ModBlocks.POLISHED_CITRINE_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_POLISHED_CITRINE_TILES.get());
+                        pOutput.accept(ModBlocks.REDSTONE_CRYSTAL_TILES.get());
+                        pOutput.accept(ModBlocks.SMALL_REDSTONE_CRYSTAL_TILES.get());
 
                     })
                     .build());

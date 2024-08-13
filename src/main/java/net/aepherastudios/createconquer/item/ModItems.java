@@ -128,7 +128,7 @@ public class ModItems {
     public static final RegistryObject<Item> FISSILE_URANIUM_20_NUGGET = ITEMS.register("fissile_uranium_20_nugget", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> FISSILE_URANIUM_90_NUGGET = ITEMS.register("fissile_uranium_90_nugget", () -> new Item(new Item.Properties()));
 
-    public static final RegistryObject<Item> URANIUM_POWDER = ITEMS.register("uranium_powder", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> URANIUM_POWDER = ITEMS.register("uranium_powder", () -> new Item(new Item.Properties().food(ModFoods.URANIUM_POWDER)));
     public static final RegistryObject<Item> PLUTONIUM_POWDER = ITEMS.register("plutonium_powder", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> LITHIUM_POWDER = ITEMS.register("lithium_powder", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> THORIUM_POWDER = ITEMS.register("thorium_powder", () -> new Item(new Item.Properties()));
@@ -215,6 +215,8 @@ public class ModItems {
     public static final RegistryObject<Item> IRON_INGOT_CAST = ITEMS.register("iron_ingot_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GOLD_INGOT_CAST = ITEMS.register("gold_ingot_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> NETHERITE_INGOT_CAST = ITEMS.register("netherite_ingot_cast", () -> new Item(new Item.Properties()));
+
+    public static final RegistryObject<Item> ORANGE = ITEMS.register("orange", () -> new Item(new Item.Properties().food(ModFoods.ORANGE)));
 
     public static final RegistryObject<Item> URANIUM_PLATE_CAST = ITEMS.register("uranium_plate_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> PLUTONIUM_PLATE_CAST = ITEMS.register("plutonium_plate_cast", () -> new Item(new Item.Properties()));
@@ -375,6 +377,8 @@ public class ModItems {
     public static final RegistryObject<Item> COKE = ITEMS.register("coke", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> BORAX = ITEMS.register("borax", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> BORON = ITEMS.register("boron", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> PEAT = ITEMS.register("peat", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> LIGNITE = ITEMS.register("lignite", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GRAPHITE = ITEMS.register("graphite", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GRAPHITE_ROD = ITEMS.register("graphite_rod", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> HEXAMINE_POWDER = ITEMS.register("hexamine_powder", () -> new Item(new Item.Properties()));
@@ -402,6 +406,10 @@ public class ModItems {
     public static final RegistryObject<Item> LITHIUM_TRITIDE = ITEMS.register("lithium_tritide", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RUBY = ITEMS.register("ruby", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> SAPPHIRE = ITEMS.register("sapphire", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> SMOKY_QUARTZ = ITEMS.register("smoky_quartz", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> CITRINE = ITEMS.register("citrine", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> POLISHED_SMOKY_QUARTZ = ITEMS.register("polished_smoky_quartz", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> POLISHED_CITRINE = ITEMS.register("polished_citrine", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> POLISHED_RUBY = ITEMS.register("polished_ruby", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> POLISHED_SAPPHIRE = ITEMS.register("polished_sapphire", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> RUBY_BLEND = ITEMS.register("ruby_blend", () -> new Item(new Item.Properties()));

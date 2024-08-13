@@ -198,6 +198,47 @@ public class ModBlocks {
     public static final RegistryObject<Block> RAW_CASSITERITE_BLOCK = registerBlock("raw_cassiterite_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
+    public static final RegistryObject<Block> POLISHED_QUARTZ_TILES = registerBlock("polished_quartz_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_QUARTZ_TILES = registerBlock("small_polished_quartz_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> AMETHYST_TILES = registerBlock("amethyst_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_AMETHYST_TILES = registerBlock("small_amethyst_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_DIAMOND_TILES = registerBlock("polished_diamond_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_DIAMOND_TILES = registerBlock("small_polished_diamond_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_EMERALD_TILES = registerBlock("polished_emerald_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_EMERALD_TILES = registerBlock("small_polished_emerald_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_LAPIS_TILES = registerBlock("polished_lapis_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_LAPIS_TILES = registerBlock("small_polished_lapis_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> REDSTONE_CRYSTAL_TILES = registerBlock("redstone_crystal_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_REDSTONE_CRYSTAL_TILES = registerBlock("small_redstone_crystal_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_RUBY_TILES = registerBlock("polished_ruby_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_RUBY_TILES = registerBlock("small_polished_ruby_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_SAPPHIRE_TILES = registerBlock("polished_sapphire_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_SAPPHIRE_TILES = registerBlock("small_polished_sapphire_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_SMOKY_QUARTZ_TILES = registerBlock("polished_smoky_quartz_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_SMOKY_QUARTZ_TILES = registerBlock("small_polished_smoky_quartz_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> POLISHED_CITRINE_TILES = registerBlock("polished_citrine_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+    public static final RegistryObject<Block> SMALL_POLISHED_CITRINE_TILES = registerBlock("small_polished_citrine_tiles",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE)));
+
 
     public static final RegistryObject<LiquidBlock> MOLTEN_URANIUM_BLOCK = BLOCKS.register("molten_uranium_block",
             () -> new LiquidBlock(ModFluids.SOURCE_MOLTEN_URANIUM, BlockBehaviour.Properties.copy(Blocks.LAVA)));
