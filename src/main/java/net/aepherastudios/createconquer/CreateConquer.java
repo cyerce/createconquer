@@ -76,6 +76,7 @@ public class CreateConquer
         IronFluidType.register(modEventBus);
         GoldFluidType.register(modEventBus);
         NetheriteFluidType.register(modEventBus);
+        MagnesiumFluidType.register(modEventBus);
         RedstoneFluidType.register(modEventBus);
 
         HydrogenFluidType.register(modEventBus);
