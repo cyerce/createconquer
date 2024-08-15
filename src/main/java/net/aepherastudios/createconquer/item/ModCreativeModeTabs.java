@@ -300,6 +300,13 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModBlocks.SILVER_BLOCK.get());
                         pOutput.accept(ModItems.MOLTEN_SILVER_BUCKET.get());
 
+                        pOutput.accept(ModItems.MAGNESIUM_INGOT.get());
+                        pOutput.accept(ModItems.MAGNESIUM_PLATE.get());
+                        pOutput.accept(ModItems.MAGNESIUM_NUGGET.get());
+                        pOutput.accept(ModItems.MAGNESIUM_POWDER.get());
+                        pOutput.accept(ModBlocks.MAGNESIUM_BLOCK.get());
+                        pOutput.accept(ModItems.MOLTEN_MAGNESIUM_BUCKET.get());
+
                         pOutput.accept(ModItems.IRON_POWDER.get());
                         pOutput.accept(ModItems.IRON_ROD.get());
                         pOutput.accept(ModItems.MOLTEN_IRON_BUCKET.get());
@@ -459,6 +466,13 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.RAW_CASSITERITE.get());
                         pOutput.accept(ModItems.CRUSHED_RAW_CASSITERITE.get());
                         pOutput.accept(ModItems.CASSITERITE_BLEND.get());
+
+                        pOutput.accept(ModBlocks.OLIVINE_ORE.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_OLIVINE_ORE.get());
+                        pOutput.accept(ModBlocks.RAW_OLIVINE_BLOCK.get());
+                        pOutput.accept(ModItems.RAW_OLIVINE.get());
+                        pOutput.accept(ModItems.CRUSHED_RAW_OLIVINE.get());
+                        pOutput.accept(ModItems.OLIVINE_BLEND.get());
 
                         pOutput.accept(ModBlocks.BORAX_ORE.get());
                         pOutput.accept(ModBlocks.DEEPSLATE_BORAX_ORE.get());
