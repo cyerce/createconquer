@@ -364,7 +364,7 @@ public class ModItems {
     public static final RegistryObject<Item> BRASS_NUGGET_CAST = ITEMS.register("brass_nugget_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> IRON_NUGGET_CAST = ITEMS.register("iron_nugget_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> GOLD_NUGGET_CAST = ITEMS.register("gold_nugget_cast", () -> new Item(new Item.Properties()));
-    public static final RegistryObject<Item> OLIVINE_NUGGET_CAST = ITEMS.register("olivine_nugget_cast", () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> MAGNESIUM_NUGGET_CAST = ITEMS.register("magnesium_nugget_cast", () -> new Item(new Item.Properties()));
 
     public static final RegistryObject<Item> COPPER_GEAR_CAST = ITEMS.register("copper_gear_cast", () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> BRASS_GEAR_CAST = ITEMS.register("brass_gear_cast", () -> new Item(new Item.Properties()));
@@ -573,7 +573,7 @@ public class ModItems {
     public static final RegistryObject<Item> MOLTEN_IRON_BUCKET = ITEMS.register("molten_iron_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_IRON, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
     public static final RegistryObject<Item> MOLTEN_GOLD_BUCKET = ITEMS.register("molten_gold_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_GOLD, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
     public static final RegistryObject<Item> MOLTEN_NETHERITE_BUCKET = ITEMS.register("molten_netherite_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_NETHERITE, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
-    public static final RegistryObject<Item> MOLTEN_OLIVINE_BUCKET = ITEMS.register("molten_olivine_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_OLIVINE, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
+    public static final RegistryObject<Item> MOLTEN_MAGNESIUM_BUCKET = ITEMS.register("molten_magnesium_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_OLIVINE, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
     public static final RegistryObject<Item> MOLTEN_REDSTONE_BUCKET = ITEMS.register("molten_redstone_bucket", () -> new BucketItem(ModFluids.SOURCE_MOLTEN_REDSTONE, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
 
     public static final RegistryObject<Item> OXYGEN_BUCKET = ITEMS.register("oxygen_bucket", () -> new BucketItem(ModFluids.SOURCE_OXYGEN, new Item.Properties().craftRemainder(Items.BUCKET).stacksTo(1)));
