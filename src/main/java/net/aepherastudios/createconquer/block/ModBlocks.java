@@ -100,6 +100,8 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
     public static final RegistryObject<Block> ALNICO_BLOCK = registerBlock("alnico_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
+    public static final RegistryObject<Block> MAGNESIUM_BLOCK = registerBlock("magnesium_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.NETHERITE_BLOCK)));
 
     public static final RegistryObject<Block> CHROMITE_ORE = registerBlock("chromite_ore",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
@@ -134,6 +136,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> BAUXITE_ORE = registerBlock("bauxite_ore",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
     public static final RegistryObject<Block> CASSITERITE_ORE = registerBlock("cassiterite_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+    public static final RegistryObject<Block> OLIVINE_ORE = registerBlock("olivine_ore",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(2f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     public static final RegistryObject<Block> DEEPSLATE_CHROMITE_ORE = registerBlock("deepslate_chromite_ore",
@@ -196,6 +200,8 @@ public class ModBlocks {
     public static final RegistryObject<Block> RAW_BAUXITE_BLOCK = registerBlock("raw_bauxite_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
     public static final RegistryObject<Block> RAW_CASSITERITE_BLOCK = registerBlock("raw_cassiterite_block",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
+    public static final RegistryObject<Block> RAW_OLIVINE_BLOCK = registerBlock("raw_olivine_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK).strength(3f).requiresCorrectToolForDrops().sound(SoundType.STONE)));
 
     public static final RegistryObject<Block> POLISHED_QUARTZ_TILES = registerBlock("polished_quartz_tiles",
@@ -326,6 +332,8 @@ public class ModBlocks {
             () -> new LiquidBlock(ModFluids.SOURCE_MOLTEN_GOLD, BlockBehaviour.Properties.copy(Blocks.LAVA)));
     public static final RegistryObject<LiquidBlock> MOLTEN_NETHERITE_BLOCK = BLOCKS.register("molten_netherite_block",
             () -> new LiquidBlock(ModFluids.SOURCE_MOLTEN_NETHERITE, BlockBehaviour.Properties.copy(Blocks.LAVA)));
+    public static final RegistryObject<LiquidBlock> MOLTEN_OLIVINE_BLOCK = BLOCKS.register("molten_olivine_block",
+            () -> new LiquidBlock(ModFluids.SOURCE_MOLTEN_OLIVINE, BlockBehaviour.Properties.copy(Blocks.LAVA)));
     public static final RegistryObject<LiquidBlock> MOLTEN_REDSTONE_BLOCK = BLOCKS.register("molten_redstone_block",
             () -> new LiquidBlock(ModFluids.SOURCE_MOLTEN_REDSTONE, BlockBehaviour.Properties.copy(Blocks.LAVA)));
     public static final RegistryObject<LiquidBlock> OXYGEN_BLOCK = BLOCKS.register("oxygen_block",
